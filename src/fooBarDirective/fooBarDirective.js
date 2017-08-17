@@ -5,7 +5,7 @@ angular.module('myApp.fooBarDirective',[])
 	return {
         restrict: 'E',
         replace: true,
-        templateUrl: '/static/totemFront/directives/fooBarDirective/fooBarDirective.html'
+        templateUrl: 'src/fooBarDirective/fooBarDirective.html'
     };
 })
 

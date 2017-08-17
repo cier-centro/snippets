@@ -1,9 +1,9 @@
 {
-  "name": "angular",
+  "name": "angular-cier-utils",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Cier utils in AngularJS",
+  "repository": "",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
@@ -14,6 +14,7 @@
     "karma-firefox-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.8",
     "karma-junit-reporter": "^0.4.1",
+    "karma-ng-html2js-preprocessor": "^1.0.0",
     "protractor": "^4.0.9"
   },
   "scripts": {
