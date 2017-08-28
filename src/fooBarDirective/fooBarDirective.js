@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.fooBarDirective',[])
+angular.module('cier.utils.fooBarDirective',[])
 .directive('fooBar',function(){
 	return {
         restrict: 'E',
