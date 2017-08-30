@@ -18,7 +18,7 @@ angular.module('cier.utils.csvTableDirective',[])
 	return {
 		restrict: 'E',
 		replace: true,
-		templateUrl: 'src/csvTableDirective/csvTableDirective.html',
+		templateUrl: '../csvTableDirective/csvTableDirective.html',
 		scope: {
 			src: "@"
 		},
